@@ -3444,6 +3444,7 @@ input, select, textarea {
 			height: 75vh;
 			min-height: 30em;
 			max-height: 50em;
+			padding: 40px;
 		}
 
 			#banner.major.alt {
